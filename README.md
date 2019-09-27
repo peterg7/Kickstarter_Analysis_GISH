@@ -11,7 +11,7 @@ The purpose of this excersise was to determine specific factors that impact a ca
 ![GBMusicalCampaigns](https://user-images.githubusercontent.com/32782443/65636802-e1088b00-df97-11e9-9dac-5bee47286710.png)
 
 ## Examining Launch Timing
-![OutcomesBasedOnLaunchDate](https://user-images.githubusercontent.com/32782443/65636320-e74a3780-df96-11e9-8163-1e4f26fac923.png)
+![OutcomesBasedOnLaunchDate](https://user-images.githubusercontent.com/32782443/65733768-e98abf80-e084-11e9-8e88-86b10826bec7.png)
 
 ![OutcomesBasedOnDuration_Grouped](https://user-images.githubusercontent.com/32782443/65733219-7aac6700-e082-11e9-9b4d-0628b21eacfc.png)
 
