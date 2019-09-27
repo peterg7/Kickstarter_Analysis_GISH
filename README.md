@@ -1,7 +1,7 @@
 # Analysis of Crowdfunded Kickstarter Campaigns
 Examined, manipulated, and visualized 2015 Kickstarter data. Utilized filters, conditional formatting, PivotTables/PivotCharts, central tendancy measures, and various plotting techniques.
 
-The purpose of this excersise was to determine specific factors that impact a campaign's likelihood of success.
+The purpose of this project was to determine specific factors that impact a campaign's likelihood of success.
 
 ## Filtering By Category 
 ![ParentCategoryOutcomes](https://user-images.githubusercontent.com/32782443/65636267-d4376780-df96-11e9-853d-dbac204b0aad.png)
